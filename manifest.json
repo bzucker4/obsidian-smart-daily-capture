@@ -1,0 +1,11 @@
+{
+  "id": "smart-daily-capture",
+  "name": "Smart Daily Capture",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Quickly capture thoughts into today's daily note under the right heading.",
+  "author": "Atlas Creative",
+  "authorUrl": "https://github.com/bzucker4",
+  "fundingUrl": "https://github.com/sponsors/bzucker4",
+  "isDesktopOnly": false
+}

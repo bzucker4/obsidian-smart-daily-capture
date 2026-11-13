@@ -1,0 +1,20 @@
+.smart-capture-modal .capture-input {
+  width: 100%;
+  min-height: 80px;
+  margin-bottom: 0.5em;
+}
+
+.smart-capture-modal .heading-select {
+  width: 100%;
+  margin-bottom: 0.5em;
+}
+
+.smart-capture-modal .modal-button-row {
+  margin-top: 1em;
+  display: flex;
+  gap: 0.5em;
+}
+
+.smart-capture-modal .modal-title {
+  margin-top: 0;
+}
